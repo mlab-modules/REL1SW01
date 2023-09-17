@@ -1,0 +1,19 @@
+description: Universal module for relays. The module is equipped with two NMOSFETy
+  that are designed for relay processor. Wiring module allows you to use two transistors
+  alone without the relay as a switch to GND.
+github_branch: REL1SW01A
+github_description: Universal module for relays. The module is equipped with two NMOSFETy
+  that are designed for relay processor. Wiring module allows you to use two transistors
+  alone without the relay as a switch to GND.
+github_repo: REL1SW01
+github_url: https://github.com/mlab-modules/REL1SW01
+homepage: false
+images:
+- doc/img/REL1SW01A_top_small.jpg
+- doc/img/REL1SW01A_top_big.jpg
+- doc/img/REL1SW01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: REL1SW01
+updated: '2023-09-17T11:34:46.597208+00:00'
