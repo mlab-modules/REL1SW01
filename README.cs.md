@@ -1,10 +1,7 @@
 
 [English](./README.md)
 <!--- module --->
-# REL1SW01A
-<!--- Emodule --->
-
-<!--- subtitle --->1 relé nebo 2NMOSFET<!--- Esubtitle --->
+# REL1SW01A - Jedno relé nebo 2x N-MOSFET
 
 ![REL1SW01A](/doc/img/REL1SW01A_top_big.jpg)
 
