@@ -14,6 +14,13 @@ images:
 - doc/img/REL1SW01A_QRcode.png
 mark: 50
 status: 2
-tags: []
+tags:
+- mlab
+- mlab-module
+- mosfet
+- power-sw
+- relay
+- transistor
+- mlab-switch
 title: REL1SW01
-updated: '2024-05-14T10:49:19.674319+00:00'
+updated: '2024-05-14T12:51:19.003594+00:00'
