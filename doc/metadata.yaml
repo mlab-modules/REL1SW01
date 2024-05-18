@@ -1,11 +1,6 @@
-description: Universal module for bistable or monostable relays. The module is equipped
-  with two N-MOSFETs that are designed for control by MCUs. The module's wiring allows
-  you to use two transistors alone without the relay as a switch to GND.
+description: Dual MOSFET or single Relay switching module.
 github_branch: REL1SW01A
-github_description: Universal module for bistable or monostable relays. The module
-  is equipped with two N-MOSFETs that are designed for control by MCUs. The module's
-  wiring allows you to use two transistors alone without the relay as a switch to
-  GND.
+github_description: Dual MOSFET or single Relay switching module.
 github_repo: REL1SW01
 github_url: https://github.com/mlab-modules/REL1SW01
 homepage: false
@@ -23,5 +18,6 @@ tags:
 - relay
 - transistor
 - mlab-switch
+- power-switch
 title: REL1SW01
-updated: '2024-05-14T18:10:44.108467+00:00'
+updated: '2024-05-18T19:15:58.786385+00:00'
