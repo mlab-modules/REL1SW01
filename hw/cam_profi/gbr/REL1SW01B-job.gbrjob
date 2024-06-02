@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "7.0.11+1"
     },
-    "CreationDate": "2024-06-02T23:23:21+00:00"
+    "CreationDate": "2024-06-02T23:29:58+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "REL1SW01",
       "GUID": "52454c31-5357-4303-912e-6b696361645f",
-      "Revision": "rev?"
+      "Revision": "01B"
     },
     "Size": {
       "X": 30.122,
