@@ -8,4 +8,4 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "M2","SROUB3M","MountingHole_3mm",30.4800,40.6400,0.0000,top
 "M3","SROUB3M","MountingHole_3mm",10.1600,10.1600,0.0000,top
 "M4","SROUB3M","MountingHole_3mm",30.4800,10.1600,0.0000,top
-"X1","RELE","Relay_DPDT_FRT5",16.4750,22.1000,0.0000,top
+"X1","RELE","Relay_DPDT_FRT5",16.5750,23.1000,0.0000,top

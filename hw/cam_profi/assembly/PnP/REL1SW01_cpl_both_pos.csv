@@ -20,4 +20,4 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "R4","100k","R_0805_2012Metric",19.3000,30.6000,-90.0000,bottom
 "T1","IRLML6244","SOT-23",22.3000,34.6000,0.0000,bottom
 "T2","IRLML6244","SOT-23",22.2625,30.6000,0.0000,bottom
-"X1","RELE","Relay_DPDT_FRT5",16.4750,22.1000,0.0000,top
+"X1","RELE","Relay_DPDT_FRT5",16.5750,23.1000,0.0000,top
