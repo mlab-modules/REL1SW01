@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/github/workspace/hw/sch_pcb/REL1SW01.kicad_sch</source>
+    <date>Sun Jun  2 23:24:13 2024</date>
+    <tool>Eeschema 7.0.11+1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>REL1SW01.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>47uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ef99aa2-5818-4cdc-9c67-ecb724bcad5c</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2706239b-8b5d-497e-a99e-aa703a03b1b2</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>SS14</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <datasheet>https://www.vishay.com/docs/88746/ss12.pdf</datasheet>
+      <libsource lib="Diode" part="SS14" description="40V 1A Schottky Diode, SMA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <property name="ki_description" value="40V 1A Schottky Diode, SMA"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a17da11a-3d6e-494e-ae9b-2040b4090455</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>SS14</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <datasheet>https://www.vishay.com/docs/88746/ss12.pdf</datasheet>
+      <libsource lib="Diode" part="SS14" description="40V 1A Schottky Diode, SMA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <property name="ki_description" value="40V 1A Schottky Diode, SMA"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d31b4d2d-1eb1-4e39-86e5-0868ac888acf</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>SS14</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <datasheet>https://www.vishay.com/docs/88746/ss12.pdf</datasheet>
+      <libsource lib="Diode" part="SS14" description="40V 1A Schottky Diode, SMA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <property name="ki_description" value="40V 1A Schottky Diode, SMA"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>996a957e-9b35-41f4-9a0a-4887b504abbd</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>SS14</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <datasheet>https://www.vishay.com/docs/88746/ss12.pdf</datasheet>
+      <libsource lib="Diode" part="SS14" description="40V 1A Schottky Diode, SMA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <property name="ki_description" value="40V 1A Schottky Diode, SMA"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>781f1d9e-4ea7-48fe-a3f1-ea2b25cb63c9</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>HEADER_2x02_PARALLEL</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x02</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_2x02_PARALLEL" description="2x02 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <property name="ki_description" value="2x02 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x02, header, connector, pinheader"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>160aef58-09b7-49cd-a595-5a3a9bd9443c</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>HEADER_2x02_PARALLEL</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x02</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_2x02_PARALLEL" description="2x02 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <property name="ki_description" value="2x02 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x02, header, connector, pinheader"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b2d86cc-3608-4d23-8dc2-2483c16cde50</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>HEADER_2x06_PARALLEL</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x06</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_2x06_PARALLEL" description="2x06 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <property name="ki_description" value="2x06 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x06, header, connector, pinheader"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb70f1be-e3ce-49cc-9b10-fe7e0079b03d</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>HEADER_2x06_PARALLEL</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x06</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_2x06_PARALLEL" description="2x06 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <property name="ki_description" value="2x06 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x06, header, connector, pinheader"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce20f63d-436c-4579-a4b4-f58a52e7017d</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>HEADER_2x04_PARALLEL</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x04</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_2x04_PARALLEL" description="2x04 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <property name="ki_description" value="2x04 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x04, header, connector, pinheader"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d5b42146-e980-4c1a-b19a-a9a1db4a477f</tstamps>
+    </comp>
+    <comp ref="M1">
+      <value>SROUB3M</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <property name="ki_keywords" value="HOLE, X, M"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b44a4465-c67a-4cac-a002-8a84fa385431</tstamps>
+    </comp>
+    <comp ref="M2">
+      <value>SROUB3M</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <property name="ki_keywords" value="HOLE, X, M"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9f30f76-bd21-46b5-9554-8460b8584142</tstamps>
+    </comp>
+    <comp ref="M3">
+      <value>SROUB3M</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <property name="ki_keywords" value="HOLE, X, M"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ebaf19c-0edb-4321-84a3-2258fde26dab</tstamps>
+    </comp>
+    <comp ref="M4">
+      <value>SROUB3M</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <property name="ki_keywords" value="HOLE, X, M"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a6d625e7-a851-421e-bc42-303aa3eb813a</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>100R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="untitled-eagle-import" part="R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a25b33ef-bedf-4f1c-b5ae-503b9556c5ba</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>100R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="untitled-eagle-import" part="R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>327b638d-2d2d-40e1-a0e1-61de03ba3428</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="untitled-eagle-import" part="R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c697a6b-9a66-4906-8851-2673e64421da</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="untitled-eagle-import" part="R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a138c8ba-beb7-475c-95c9-1913e3c7dca6</tstamps>
+    </comp>
+    <comp ref="T1">
+      <value>IRLML6244</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="untitled-eagle-import" part="IRLML6244TRPBF" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>309b0160-22d4-475c-9bfd-1ddc7b11e55a</tstamps>
+    </comp>
+    <comp ref="T2">
+      <value>IRLML6244</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="untitled-eagle-import" part="IRLML6244TRPBF" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5d97f22-4675-431e-8ddf-01b6d398ae24</tstamps>
+    </comp>
+    <comp ref="X1">
+      <value>RELE</value>
+      <footprint>Relay_THT:Relay_DPDT_FRT5</footprint>
+      <libsource lib="untitled-eagle-import" part="RELE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ae1e4b2-2528-4a15-9274-b0e563b07f67</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="SS14">
+      <description>40V 1A Schottky Diode, SMA</description>
+      <docs>https://www.vishay.com/docs/88746/ss12.pdf</docs>
+      <footprints>
+        <fp>D*SMA*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SS14</field>
+        <field name="Footprint">Diode_SMD:D_SMA</field>
+        <field name="Datasheet">https://www.vishay.com/docs/88746/ss12.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_HEADER" part="HEADER_2x02_PARALLEL">
+      <description>2x02 2.54 mm pitch header, 2 pins next to each other are connected</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HEADER_2x02_PARALLEL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_HEADER" part="HEADER_2x04_PARALLEL">
+      <description>2x04 2.54 mm pitch header, 2 pins next to each other are connected</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HEADER_2x04_PARALLEL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="input"/>
+        <pin num="7" name="" type="input"/>
+        <pin num="8" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_HEADER" part="HEADER_2x06_PARALLEL">
+      <description>2x06 2.54 mm pitch header, 2 pins next to each other are connected</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HEADER_2x06_PARALLEL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="input"/>
+        <pin num="7" name="" type="input"/>
+        <pin num="8" name="" type="input"/>
+        <pin num="9" name="" type="input"/>
+        <pin num="10" name="" type="input"/>
+        <pin num="11" name="" type="input"/>
+        <pin num="12" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_MECHANICAL" part="HOLE">
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">HOLE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="untitled-eagle-import" part="IRLML6244TRPBF">
+      <fields>
+        <field name="Reference">T</field>
+        <field name="Footprint">untitled:SOT23</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="untitled-eagle-import" part="R0805">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Footprint">untitled:0805</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="untitled-eagle-import" part="RELE">
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Footprint">untitled:RELE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P$1" type="passive"/>
+        <pin num="2" name="P$2" type="passive"/>
+        <pin num="3" name="P$3" type="passive"/>
+        <pin num="4" name="P$4" type="passive"/>
+        <pin num="5" name="P$5" type="passive"/>
+        <pin num="6" name="P$6" type="passive"/>
+        <pin num="7" name="P$7" type="passive"/>
+        <pin num="8" name="P$8" type="passive"/>
+        <pin num="9" name="P$9" type="passive"/>
+        <pin num="10" name="P$10" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>/usr/share/kicad/symbols//Diode.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+VCC">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J3" pin="1" pintype="input"/>
+      <node ref="J3" pin="2" pintype="input"/>
+      <node ref="J4" pin="11" pintype="input"/>
+      <node ref="J4" pin="12" pintype="input"/>
+      <node ref="J5" pin="3" pintype="input"/>
+      <node ref="J5" pin="4" pintype="input"/>
+      <node ref="J5" pin="5" pintype="input"/>
+      <node ref="J5" pin="6" pintype="input"/>
+    </net>
+    <net code="2" name="/IN1">
+      <node ref="J1" pin="3" pintype="input"/>
+      <node ref="J1" pin="4" pintype="input"/>
+      <node ref="R1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="3" name="/IN2">
+      <node ref="J1" pin="1" pintype="input"/>
+      <node ref="J1" pin="2" pintype="input"/>
+      <node ref="R2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="4" name="/OUT1">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J2" pin="1" pintype="input"/>
+      <node ref="J2" pin="2" pintype="input"/>
+      <node ref="T1" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="5" name="/OUT2">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J2" pin="3" pintype="input"/>
+      <node ref="J2" pin="4" pintype="input"/>
+      <node ref="T2" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="6" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J5" pin="1" pintype="input"/>
+      <node ref="J5" pin="2" pintype="input"/>
+      <node ref="J5" pin="7" pintype="input"/>
+      <node ref="J5" pin="8" pintype="input"/>
+      <node ref="M1" pin="1" pintype="input"/>
+      <node ref="M2" pin="1" pintype="input"/>
+      <node ref="M3" pin="1" pintype="input"/>
+      <node ref="M4" pin="1" pintype="input"/>
+      <node ref="R3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="T1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="T2" pin="2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(D1-K)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="T1" pin="1" pinfunction="G" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(D2-K)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="T2" pin="1" pinfunction="G" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(X1-P$1)">
+      <node ref="J4" pin="10" pintype="input"/>
+      <node ref="J4" pin="9" pintype="input"/>
+      <node ref="X1" pin="1" pinfunction="P$1" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(X1-P$2)">
+      <node ref="J4" pin="7" pintype="input"/>
+      <node ref="J4" pin="8" pintype="input"/>
+      <node ref="X1" pin="2" pinfunction="P$2" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(X1-P$3)">
+      <node ref="J4" pin="5" pintype="input"/>
+      <node ref="J4" pin="6" pintype="input"/>
+      <node ref="X1" pin="3" pinfunction="P$3" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(X1-P$4)">
+      <node ref="J4" pin="3" pintype="input"/>
+      <node ref="J4" pin="4" pintype="input"/>
+      <node ref="X1" pin="4" pinfunction="P$4" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(X1-P$5)">
+      <node ref="J4" pin="1" pintype="input"/>
+      <node ref="J4" pin="2" pintype="input"/>
+      <node ref="X1" pin="5" pinfunction="P$5" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(X1-P$6)">
+      <node ref="J3" pin="11" pintype="input"/>
+      <node ref="J3" pin="12" pintype="input"/>
+      <node ref="X1" pin="6" pinfunction="P$6" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(X1-P$7)">
+      <node ref="J3" pin="10" pintype="input"/>
+      <node ref="J3" pin="9" pintype="input"/>
+      <node ref="X1" pin="7" pinfunction="P$7" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(X1-P$8)">
+      <node ref="J3" pin="7" pintype="input"/>
+      <node ref="J3" pin="8" pintype="input"/>
+      <node ref="X1" pin="8" pinfunction="P$8" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(X1-P$9)">
+      <node ref="J3" pin="5" pintype="input"/>
+      <node ref="J3" pin="6" pintype="input"/>
+      <node ref="X1" pin="9" pinfunction="P$9" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(X1-P$10)">
+      <node ref="J3" pin="3" pintype="input"/>
+      <node ref="J3" pin="4" pintype="input"/>
+      <node ref="X1" pin="10" pinfunction="P$10" pintype="passive"/>
+    </net>
+  </nets>
+</export>
