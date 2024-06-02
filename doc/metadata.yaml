@@ -1,0 +1,23 @@
+description: Dual MOSFET or single Relay switching module.
+github_branch: REL1SW01B
+github_description: Dual MOSFET or single Relay switching module.
+github_repo: REL1SW01
+github_url: https://github.com/mlab-modules/REL1SW01
+homepage: false
+images:
+- doc/img/REL1SW01A_top_small.jpg
+- doc/img/REL1SW01A_top_big.jpg
+- doc/img/REL1SW01A_QRcode.png
+mark: 50
+status: 0
+tags:
+- mlab
+- mlab-module
+- mosfet
+- power-sw
+- relay
+- transistor
+- mlab-switch
+- power-switch
+title: REL1SW01
+updated: '2024-06-02T23:22:42.506794+00:00'
