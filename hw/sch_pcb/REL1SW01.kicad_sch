@@ -9,7 +9,8 @@
     (date "2024-06-03")
     (rev "01B")
     (company "www.mlab.cz")
-    (comment 1 "roman-dvorak <romandvorak@mlab.cz>")
+    (comment 1 "Relay control module")
+    (comment 2 "roman-dvorak <romandvorak@mlab.cz>")
   )
 
   (lib_symbols
