@@ -1,7 +1,7 @@
 
 [Czech](./README.cs.md)
 <!--- module --->
-# REL1SW01A - One relay or two N-MOSFET
+# REL1SW01 - One relay or two N-MOSFET
 
 ![REL1SW01A](/doc/gen/img/REL1SW01-top.png)
 
