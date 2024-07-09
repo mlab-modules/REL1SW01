@@ -5,16 +5,16 @@ github_repo: REL1SW01
 github_url: https://github.com/mlab-modules/REL1SW01
 homepage: false
 images:
-- doc/img/REL1SW01A_top_small.jpg
 - doc/img/REL1SW01A_top_big.jpg
-- doc/img/REL1SW01A_QRcode.png
-- doc/gen/img/REL1SW01-bottom.png
+- doc/img/REL1SW01A_top_small.jpg
 - doc/gen/img/REL1SW01-top.png
-- doc/gen/REL1SW01-schematic.svg
-- doc/gen/img/REL1SW01-bottom.svg
-- doc/gen/img/REL1SW01-top.svg
-- hw/cam_profi/assembly/REL1SW01-assembly_page_01.svg
+- doc/gen/img/REL1SW01-bottom.png
+- doc/img/REL1SW01A_QRcode.png
 - hw/cam_profi/assembly/REL1SW01-assembly_page_02.svg
+- hw/cam_profi/assembly/REL1SW01-assembly_page_01.svg
+- doc/gen/REL1SW01-schematic.svg
+- doc/gen/img/REL1SW01-top.svg
+- doc/gen/img/REL1SW01-bottom.svg
 mark: 50
 mod_ibom: hw/cam_profi/REL1SW01-ibom.html
 mod_scheme: doc/gen/REL1SW01-schematic.pdf
@@ -33,4 +33,4 @@ tags:
 - mosfet-transistor
 - mosfets
 title: REL1SW01
-updated: '2024-06-07T12:09:01.324932+00:00'
+updated: '2024-07-09T15:02:29.837495+00:00'
