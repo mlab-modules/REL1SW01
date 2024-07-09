@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/REL1SW01.kicad_sch</source>
-    <date>Thu Jun  6 21:52:37 2024</date>
+    <date>Tue Jul  9 15:03:56 2024</date>
     <tool>Eeschema 7.0.11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -27,7 +27,11 @@
     <comp ref="C1">
       <value>47uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">60d580ff1287500165f8595a</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="UST_ID" value="60d580ff1287500165f8595a"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
@@ -38,7 +42,11 @@
     <comp ref="C2">
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
@@ -50,7 +58,11 @@
       <value>SS14</value>
       <footprint>Diode_SMD:D_SMA</footprint>
       <datasheet>https://www.vishay.com/docs/88746/ss12.pdf</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f88bd</field>
+      </fields>
       <libsource lib="Diode" part="SS14" description="40V 1A Schottky Diode, SMA"/>
+      <property name="UST_ID" value="5c70984512875079b91f88bd"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
       <property name="ki_description" value="40V 1A Schottky Diode, SMA"/>
@@ -62,7 +74,11 @@
       <value>SS14</value>
       <footprint>Diode_SMD:D_SMA</footprint>
       <datasheet>https://www.vishay.com/docs/88746/ss12.pdf</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f88bd</field>
+      </fields>
       <libsource lib="Diode" part="SS14" description="40V 1A Schottky Diode, SMA"/>
+      <property name="UST_ID" value="5c70984512875079b91f88bd"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
       <property name="ki_description" value="40V 1A Schottky Diode, SMA"/>
@@ -74,7 +90,11 @@
       <value>SS14</value>
       <footprint>Diode_SMD:D_SMA</footprint>
       <datasheet>https://www.vishay.com/docs/88746/ss12.pdf</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f88bd</field>
+      </fields>
       <libsource lib="Diode" part="SS14" description="40V 1A Schottky Diode, SMA"/>
+      <property name="UST_ID" value="5c70984512875079b91f88bd"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
       <property name="ki_description" value="40V 1A Schottky Diode, SMA"/>
@@ -86,7 +106,11 @@
       <value>SS14</value>
       <footprint>Diode_SMD:D_SMA</footprint>
       <datasheet>https://www.vishay.com/docs/88746/ss12.pdf</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f88bd</field>
+      </fields>
       <libsource lib="Diode" part="SS14" description="40V 1A Schottky Diode, SMA"/>
+      <property name="UST_ID" value="5c70984512875079b91f88bd"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
       <property name="ki_description" value="40V 1A Schottky Diode, SMA"/>
@@ -98,8 +122,10 @@
       <value>HEADER_2x02_PARALLEL</value>
       <footprint>Mlab_Pin_Headers:Straight_2x02</footprint>
       <libsource lib="MLAB_HEADER" part="HEADER_2x02_PARALLEL" description="2x02 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <property name="exclude_from_bom"/>
       <property name="ki_description" value="2x02 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="ki_keywords" value="2x02, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
@@ -109,8 +135,10 @@
       <value>HEADER_2x02_PARALLEL</value>
       <footprint>Mlab_Pin_Headers:Straight_2x02</footprint>
       <libsource lib="MLAB_HEADER" part="HEADER_2x02_PARALLEL" description="2x02 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <property name="exclude_from_bom"/>
       <property name="ki_description" value="2x02 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="ki_keywords" value="2x02, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
@@ -120,8 +148,10 @@
       <value>HEADER_2x06_PARALLEL</value>
       <footprint>Mlab_Pin_Headers:Straight_2x06</footprint>
       <libsource lib="MLAB_HEADER" part="HEADER_2x06_PARALLEL" description="2x06 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <property name="exclude_from_bom"/>
       <property name="ki_description" value="2x06 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="ki_keywords" value="2x06, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
@@ -131,8 +161,10 @@
       <value>HEADER_2x06_PARALLEL</value>
       <footprint>Mlab_Pin_Headers:Straight_2x06</footprint>
       <libsource lib="MLAB_HEADER" part="HEADER_2x06_PARALLEL" description="2x06 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <property name="exclude_from_bom"/>
       <property name="ki_description" value="2x06 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="ki_keywords" value="2x06, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
@@ -142,8 +174,10 @@
       <value>HEADER_2x04_PARALLEL</value>
       <footprint>Mlab_Pin_Headers:Straight_2x04</footprint>
       <libsource lib="MLAB_HEADER" part="HEADER_2x04_PARALLEL" description="2x04 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <property name="exclude_from_bom"/>
       <property name="ki_description" value="2x04 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="ki_keywords" value="2x04, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
@@ -153,8 +187,10 @@
       <value>SROUB3M</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <property name="exclude_from_bom"/>
       <property name="ki_keywords" value="HOLE, X, M"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b44a4465-c67a-4cac-a002-8a84fa385431</tstamps>
@@ -163,8 +199,10 @@
       <value>SROUB3M</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <property name="exclude_from_bom"/>
       <property name="ki_keywords" value="HOLE, X, M"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d9f30f76-bd21-46b5-9554-8460b8584142</tstamps>
@@ -173,8 +211,10 @@
       <value>SROUB3M</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <property name="exclude_from_bom"/>
       <property name="ki_keywords" value="HOLE, X, M"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6ebaf19c-0edb-4321-84a3-2258fde26dab</tstamps>
@@ -183,8 +223,10 @@
       <value>SROUB3M</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
+      <property name="exclude_from_bom"/>
       <property name="ki_keywords" value="HOLE, X, M"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a6d625e7-a851-421e-bc42-303aa3eb813a</tstamps>
@@ -192,7 +234,11 @@
     <comp ref="R1">
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8977</field>
+      </fields>
       <libsource lib="untitled-eagle-import" part="R0805" description=""/>
+      <property name="UST_ID" value="5c70984512875079b91f8977"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -201,7 +247,11 @@
     <comp ref="R2">
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8977</field>
+      </fields>
       <libsource lib="untitled-eagle-import" part="R0805" description=""/>
+      <property name="UST_ID" value="5c70984512875079b91f8977"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -210,7 +260,11 @@
     <comp ref="R3">
       <value>100k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">639ed3d540d28a66c9e88a9e</field>
+      </fields>
       <libsource lib="untitled-eagle-import" part="R0805" description=""/>
+      <property name="UST_ID" value="639ed3d540d28a66c9e88a9e"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -219,7 +273,11 @@
     <comp ref="R4">
       <value>100k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">639ed3d540d28a66c9e88a9e</field>
+      </fields>
       <libsource lib="untitled-eagle-import" part="R0805" description=""/>
+      <property name="UST_ID" value="639ed3d540d28a66c9e88a9e"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -228,7 +286,11 @@
     <comp ref="T1">
       <value>IRLML6244</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8aef</field>
+      </fields>
       <libsource lib="untitled-eagle-import" part="IRLML6244TRPBF" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8aef"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -237,7 +299,11 @@
     <comp ref="T2">
       <value>IRLML6244</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8aef</field>
+      </fields>
       <libsource lib="untitled-eagle-import" part="IRLML6244TRPBF" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8aef"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -247,6 +313,7 @@
       <value>RELE</value>
       <footprint>Relay_THT:Relay_DPDT_FRT5</footprint>
       <libsource lib="untitled-eagle-import" part="RELE" description=""/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="REL1SW01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
